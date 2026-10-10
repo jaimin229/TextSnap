@@ -1,0 +1,9 @@
+# Ignore everything except public legal and hosting files
+*
+!README.md
+!PRIVACY_POLICY.md
+!TERMS_OF_SERVICE.md
+!index.html
+!terms.html
+!App_Icon_512x512.png
+!.gitignore
